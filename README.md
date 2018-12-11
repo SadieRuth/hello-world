@@ -1,3 +1,3 @@
 # hello-world
 My first repository!
-I am eating stir-fry for lunch. Yay peanut sauce!
+HELLO I am eating stir-fry for lunch. Yay peanut sauce!
